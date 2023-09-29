@@ -1,0 +1,19 @@
+{
+  "name": "aula-03",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo de Web Server com NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Etec",
+    "PwII"
+  ],
+  "author": "Caio Caires",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
